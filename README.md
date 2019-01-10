@@ -1,4 +1,4 @@
-# hello-world
-hello world repo
+# Hello World
+Hello World repository.
 
-Hello, my name is Calvin. I live in Seattle, WA.
+Hello, my name is Calvin. I live in the Greater Seattle Area.
